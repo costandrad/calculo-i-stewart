@@ -41,6 +41,8 @@
   } else {
     frontpage-input
   }
+
+  
   
 
   // ---- SETUP ----
@@ -109,7 +111,7 @@
     ]
   )
   
-
+  let main-color = main-color
 
   // ---- BODY ----
   body
